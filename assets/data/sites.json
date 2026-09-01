@@ -1,0 +1,40 @@
+[
+  {
+    "id": "nimhans-nrc",
+    "name": "NIMHANS Neurobiology Research Centre",
+    "city": "Bengaluru, India",
+    "lat": 12.9406,
+    "lng": 77.5988,
+    "tier": "human_science",
+    "tiers": ["human_science"],
+    "subfield": "Neuroergonomics",
+    "subfields": [
+      { "tier": "human_science", "subfield": "Neuroergonomics" }
+    ],
+    "type": "lab",
+    "founded": "2007",
+    "site": "https://nimhans.ac.in",
+    "desc": "Specialised neuroscience research centre on the NIMHANS campus, spanning neurophysiology and cognitive neuroscience.",
+    "applications": ["healthcare"],
+    "appKeywords": ["Clinical Decision Support", "Digital Health"]
+  },
+  {
+    "id": "iisc-rbccps-hci",
+    "name": "IISc — RBCCPS Human-Computer Interaction Group",
+    "city": "Bengaluru, India",
+    "lat": 13.0219,
+    "lng": 77.5671,
+    "tier": "interaction_ai",
+    "tiers": ["interaction_ai"],
+    "subfield": "HMI",
+    "subfields": [
+      { "tier": "interaction_ai", "subfield": "HMI" }
+    ],
+    "type": "lab",
+    "founded": "2016",
+    "site": "https://cps.iisc.ac.in",
+    "desc": "Research group working on adaptive interfaces, HMI and assistive technology systems.",
+    "applications": ["consumer"],
+    "appKeywords": ["Human–Computer Interaction", "Multimodal Interaction"]
+  }
+]
